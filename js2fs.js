@@ -225,7 +225,7 @@ let Scripts = function () {
         let settingsFound, now = new Date().getTime();
         this.globalScript = '';
 
-        adapter.objects.getObjectList({
+        adapter.getObjectList({
             startkey: 'script.js.',
             endkey: 'script.js.' + '\u9999'
         }, null, function (err, res) {
