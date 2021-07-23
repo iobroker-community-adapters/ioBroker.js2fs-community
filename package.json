@@ -36,7 +36,7 @@
     "path": "^0.12.7",
     "soef": "^0.4.4",
     "chokidar": "^1.7.0",
-    "@iobroker/adapter-core": "^1.0.3"
+    "@iobroker/adapter-core": "^2.5.1"
   },
   "devDependencies": {
     "mocha": "^4.1.0",
