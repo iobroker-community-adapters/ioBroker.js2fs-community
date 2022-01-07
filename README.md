@@ -1,3 +1,5 @@
+# Deprecated: This feature is now part of javascript adapter.
+
 ![Logo](admin/js2fs.png)
 
 ### ioBroker.js2fs
